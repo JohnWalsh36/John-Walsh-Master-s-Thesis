@@ -1,4 +1,15 @@
-# John Walsh - Master's Thesis
+# Join-Walsh-Master-s-Thesis  
+**Master's Thesis Project**  
+*Author: Join Walsh*  
 
-## Overview
-Code and analysis for my master's thesis on strategic equilibrium in double auctions.
+## 📖 About  
+This repository contains the code and resources for my Master's thesis titled "[Thesis Title]".  
+
+### Key Activities  
+- **Start**: Initial project setup and data collection.  
+- **Matching**: Algorithm implementation for [specific task].  
+- **Info**: Metadata processing and visualization.  
+
+## 🛠️ Installation  
+```bash
+git clone https://github.com/your-username/Join-Walsh-Master-s-Thesis.git
