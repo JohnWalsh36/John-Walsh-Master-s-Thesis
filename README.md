@@ -18,3 +18,6 @@ git clone https://github.com/your-username/Join-Walsh-Master-s-Thesis.git
 ├── data/       # Raw datasets
 ├── notebooks/  # Jupyter Notebooks (100% of code)
 └── docs/       # Thesis draft or supplementary materials
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnWalsh36/John-Walsh-Masters-Thesis/HEAD?labpath=notebooks%2FBids%20and%20Offers.ipynb)
