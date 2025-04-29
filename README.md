@@ -1,6 +1,6 @@
-# Join-Walsh-Master-s-Thesis  
+# John-Walsh-Master-s-Thesis  
 **Master's Thesis Project**  
-*Author: Join Walsh*  
+*Author: John Walsh*  
 
 ## 📖 About  
 This repository contains the code and resources for my Master's thesis titled "[Thesis Title]".  
