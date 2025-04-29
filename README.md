@@ -13,3 +13,7 @@ This repository contains the code and resources for my Master's thesis titled "[
 ## 🛠️ Installation  
 ```bash
 git clone https://github.com/your-username/Join-Walsh-Master-s-Thesis.git
+
+├── data/       # Raw datasets
+├── notebooks/  # Jupyter Notebooks (100% of code)
+└── docs/       # Thesis draft or supplementary materials
