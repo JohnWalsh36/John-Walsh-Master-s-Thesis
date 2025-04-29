@@ -1,11 +1,13 @@
-.ipynb_checkpoints/
-.DS_Store          
-*.swp              
-.idea/              
-__pycache__/        
-*.pyc               
-.ipynb_checkpoints/ 
-.env                
-*.csv
-*.pkl
-*.log
+# Python/Jupyter
+__pycache__/        # Python bytecode cache
+*.pyc               # Compiled Python files
+.ipynb_checkpoints/ # Jupyter autosave (duplicate removed)
+
+# System/IDE
+.DS_Store           # macOS metadata
+*.swp               # Vim swap files
+.idea/              # JetBrains IDE config
+
+# Data/Environment
+.env                # Sensitive environment variables
+*.log               # Log files
