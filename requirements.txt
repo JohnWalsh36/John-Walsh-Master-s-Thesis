@@ -3,6 +3,7 @@ scipy
 matplotlib
 pandas
 ipywidgets
+voila
 seaborn
 jupyterlab
 ipython
