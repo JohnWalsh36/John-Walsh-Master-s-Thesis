@@ -21,3 +21,4 @@ git clone https://github.com/your-username/Join-Walsh-Master-s-Thesis.git
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnWalsh36/John-Walsh-Masters-Thesis/HEAD?labpath=notebooks%2FBids%20and%20Offers.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnWalsh36/John-Walsh-Masters-Thesis/HEAD?labpath=notebooks%2FMarket%20Maker.ipynb)
