@@ -1,3 +1,11 @@
 .ipynb_checkpoints/
-*.pyc
-__pycache__/
+.DS_Store          
+*.swp              
+.idea/              
+__pycache__/        
+*.pyc               
+.ipynb_checkpoints/ 
+.env                
+*.csv
+*.pkl
+*.log
