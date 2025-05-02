@@ -1,30 +1,13 @@
-# John-Walsh-Master-s-Thesis  
-**Master's Thesis Project**  
-*Author: John Walsh*  
+# John Walsh Master's Thesis  
+# Title: A Mechanism for Adapting Theoretical Models of Trader Behavior to the Real-World  
+# Author: John Walsh
+# Date: April, 2025
 
 ## 📖 About  
-This repository contains the code and resources for my Master's thesis titled "[Thesis Title]".  
-
-### Key Activities  
-- **Start**: Initial project setup and data collection.  
-- **Matching**: Algorithm implementation for [specific task].  
-- **Info**: Metadata processing and visualization.  
-
-## 🛠️ Installation  
-```bash
-git clone https://github.com/your-username/Join-Walsh-Master-s-Thesis.git
+This repository contains the code and resources for my Master's thesis 
+- A PDF Copy of my Thesis is Contained in the Directory "Documents"
+- The Directory "Workbooks" Contains the Relevant Source Code and Demos of the Algorithm for Different Parameters
 
 ## 📂 Project Structure  
-├── data/       # Raw datasets
-├── notebooks/  # Jupyter Notebooks (100% of code)
-└── docs/       # Thesis draft or supplementary materials
-
-
-## 🚀 Interactive Launch  
-Click the badges below to run these notebooks live:  
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnWalsh36/John-Walsh-Masters-Thesis/HEAD?labpath=Workbooks%2FBids%20and%20Offers.ipynb)  
-*Bids and Offers Workbook*  
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnWalsh36/John-Walsh-Masters-Thesis/HEAD?labpath=Workbooks%2FMarket%20Maker.ipynb)  
-*Market Maker Workbook*  
+├── Documents/  # PDF of Master's
+└── Workbooks/  # Jupyter Notebooks (100% of code)
