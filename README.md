@@ -9,7 +9,6 @@ This repository contains the code and resources for my Master's thesis
 - The Directory "Workbooks" Contains the Relevant Source Code and Demos of the Algorithm for Different Parameters
 
 📂 Project Structure
-.
-├── Documents              # PDF of Master's Thesis
-└── Workbooks              # Jupyter Notebooks (100% of code)
-    └── Demos              # Demos of the Algorithm for Various Values of N
+Documents:              # PDF of Master's Thesis
+Workbooks:              # Jupyter Notebooks (100% of code)
+Demos:              # Demos of the Algorithm for Various Values of N
